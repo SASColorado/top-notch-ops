@@ -1,0 +1,51 @@
+# Legal Memo: Entity Structure Overview  
+**Date:** July 17, 2025  
+**Prepared by:** Saleem Ahmed Schultz  
+**Entity:** Top Notch Lawn Care LLC  
+**Parent Company:** SAS Colorado Holdings LLC
+
+---
+
+## 1. Corporate Ownership Structure
+
+Top Notch Lawn Care LLC (“Top Notch”) is a Colorado limited liability company formed for the purpose of providing lawn care and landscaping services. It is **100% owned and controlled** by SAS Colorado Holdings LLC (“SAS”), a Wyoming limited liability company.
+
+**SAS Colorado Holdings LLC**
+- Formation State: Wyoming  
+- EIN: [REDACTED]  
+- Registered Agent: Wyoming Registered Agent Services, Inc.  
+- Sole Member/Manager: Saleem Ahmed Schultz
+
+**Top Notch Lawn Care LLC**
+- Formation State: Colorado  
+- EIN: [REDACTED]  
+- Sole Member: SAS Colorado Holdings LLC  
+- Daily Operations Managed by: Saleem Ahmed Schultz (via SAS authority)
+
+---
+
+## 2. Legal & Functional Relationship
+
+Top Notch is a **disregarded entity** for federal tax purposes, and all income, expenses, and ownership flow through to SAS Colorado Holdings LLC. SAS provides Top Notch with:
+- Startup capital through intercompany loans
+- Management services via a formal service agreement
+- Intellectual property licenses (e.g., logo, digital content)
+- Compliance oversight and internal audit reviews
+
+---
+
+## 3. Supporting Documentation on File
+
+| Document                          | Date Signed     | Location             |
+|----------------------------------|-----------------|----------------------|
+| Articles of Organization (CO)    |           | Colorado SoS         |
+| Operating Agreement (SAS)        | Apr 16, 2025    | /contracts/          |
+| Board Resolution (SAS → Top Notch formation) | Apr 10, 2025 | /board-resolutions/ |
+| IP License Agreement             | Mar 7, 2025     | /contracts/ip/       |
+| Intercompany Loan Agreement      | Pending final draft | /contracts/     |
+
+---
+
+## 4. Summary
+
+This memo formally logs the ownership and control structure of Top Notch Lawn Care LLC as a wholly owned, manager-directed subsidiary of SAS Colorado Holdings LLC, with clear separation of entities, roles, and responsibilities for the purpose of tax compliance, asset protection, and governance.
