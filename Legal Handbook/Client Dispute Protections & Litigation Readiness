@@ -1,0 +1,42 @@
+# 🧾 05 – Client Dispute Protections & Litigation Readiness  
+**Entity:** Top Notch Lawn Care LLC  
+**Prepared by:** Saleem Ahmed Schultz  
+**Last Updated:** 2025-07-18  
+
+---
+
+## 🎯 Objective
+
+To outline **proactive legal safeguards** that protect Top Notch from client disputes, non-payment, false damage claims, and refund demands. These policies reduce the risk of lawsuits, strengthen your defense in court, and reinforce the corporate veil.
+
+---
+
+## ✅ Client Protections – Contract Structure
+
+### Every client interaction should be documented with:
+
+| Tool                    | Example Use                                   |
+|-------------------------|-----------------------------------------------|
+| ✅ Written quote         | Screenshots, PDF, or estimate from Housecall Pro  
+| ✅ Text/email confirmation | “Sounds good!” or “Okay I agree” from client  
+| ✅ Clear scope of work   | “We will mow, edge, spray weeds. No tree work.”  
+| ✅ Payment terms         | “$400 total due upon completion” or “$450 if financed until 7/31”  
+| ✅ Terms disclaimer      | “Weather damage, regrowth, or soil issues are not covered”  
+| ✅ Dispute window        | “Client must report issues within 72 hrs”  
+
+🔐 These documents go in:  
+/contracts/client-name/
+/daily-updates/yyyy-mm-dd.md
+/screenshots/client-name/
+---
+
+## 📋 Recommended Contract Clauses
+
+Include these in every written service agreement or estimate:
+
+```markdown
+- “Client agrees to pay in full upon completion unless written financing terms are pre-approved.”
+- “Top Notch Lawn Care LLC shall not be held responsible for regrowth, weather damage, or existing soil/fertilizer issues.”
+- “Client agrees to report disputes or incomplete work within 72 hours of service.”
+- “If unpaid, Top Notch may pursue collections, legal action, or lien remedies.”
+- “All work performed is logged and documented internally for quality control and legal purposes.”
