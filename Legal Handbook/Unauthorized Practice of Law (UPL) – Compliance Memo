@@ -1,0 +1,99 @@
+# ⚖️ 04 – Unauthorized Practice of Law (UPL) – Compliance Memo  
+**Entity:** Top Notch Lawn Care LLC  
+**Prepared by:** Saleem Ahmed Schultz  
+**Last Updated:** 2025-07-18  
+
+---
+
+## 🎯 Objective
+
+To define the legal boundaries for non-lawyer representation of Top Notch Lawn Care LLC in Colorado and ensure **full compliance with C.R.S. § 13-1-127** and **C.R.C.P. 508(c)** while avoiding violations of the **unauthorized practice of law (UPL)** doctrine.
+
+---
+
+## 📚 UPL in Colorado – Core Risk
+
+Under **C.R.S. § 12-240-121(1)(a)**, only licensed Colorado attorneys may “practice law” in court, which includes giving legal advice or representing others for compensation.
+
+Violating this can result in:
+- Civil fines
+- Case dismissal
+- Criminal charges (Class 2 misdemeanor – C.R.S. § 12-240-123)
+
+---
+
+## ✅ Pro Se Business Representation – Legal Exception
+
+Colorado allows **closely held business entities** to represent themselves in certain courts **without a lawyer** if specific conditions are met.
+
+---
+
+## 📌 Rule Summary
+
+### 🔹 C.R.C.P. Rule 508(c) – Small Claims
+> “Corporations, partnerships, associations and other organizations may be represented before the Small Claims Court by an officer, a partner, an employee, a regularly retained attorney or any other person authorized by law.”
+
+✅ This permits you, as the **Manager of SAS Colorado Holdings LLC (sole owner of Top Notch)**, to represent Top Notch in **Small Claims Court**.
+
+---
+
+### 🔹 C.R.S. § 13-1-127(2) – County Court (≤ $15,000)
+> “A closely held entity may be represented before any court of record by an officer of such entity if the amount at issue does not exceed fifteen thousand dollars and the entity has no more than three owners.”
+
+✅ Top Notch qualifies because:
+- SAS is the sole member  
+- SAS is managed solely by Saleem Ahmed Schultz  
+- Saleem is the de facto full-time operator of Top Notch  
+- Claims filed are ≤ $15,000  
+- Representation is done **without compensation** (avoids UPL classification)
+
+---
+
+## 🧱 Internal Controls Against UPL
+
+| Practice | Status | Explanation |
+|---------|--------|-------------|
+| You are not paid to represent Top Notch | ✅ | No compensation = not UPL under CO law |
+| You are an officer of SAS (Top Notch’s owner) | ✅ | Representation is allowed if you are officer of member-entity |
+| You do not represent third parties | ✅ | Only Top Notch and subsidiaries under SAS |
+| You use proper entity name in court | ✅ | “Top Notch Lawn Care LLC,” not personal name |
+| You do not advise others on court filings | ✅ | You act solely on behalf of SAS/Top Notch |
+| You maintain formal delegation memos | ✅ | Stored in `/legal-memos/representation-authority.md` |
+
+---
+
+## 🧠 Real-World Enforcement Risk
+
+### 🔹 Case: *People v. Shell*, 148 P.3d 162 (Colo. 2006)  
+> Shell was convicted of UPL for filing court documents **on behalf of another business** he did not own or work for.
+
+### 🔹 Case: *Fogelson v. Steele* (2009)  
+> A managing member **did not violate UPL** by representing his own LLC in small claims.
+
+✅ Our structure aligns with **Fogelson**, not Shell — because:
+- You manage SAS  
+- SAS owns Top Notch  
+- You are not an external party  
+- You are not being paid to represent a business you don’t control
+
+---
+
+## 📂 File to Show If Challenged
+
+- `/legal-handbook/01-representation-authority.md`
+- `/legal-memos/entity-structure-overview.md`
+- Copy of SAS Operating Agreement  
+- CO SOS printout of Top Notch  
+- WY SOS printout of SAS
+
+---
+
+## ⚠️ Situations to Avoid
+
+- Representing any entity **not owned or managed by SAS**  
+- Accepting payment or favors for filing lawsuits on someone else’s behalf  
+- Speaking in court on behalf of another company (even if you helped form it) unless SAS owns it  
+- Representing Top Notch on matters over $15,000 without a lawyer  
+- Letting others (e.g. subcontractors) speak on behalf of Top Notch in court
+
+---
