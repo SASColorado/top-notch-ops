@@ -1,0 +1,198 @@
+# 📋 06 – How to File a Lawsuit (Small Claims & County Court)
+
+**Entity:** Top Notch Lawn Care LLC
+**Prepared by:** Saleem Ahmed Schultz
+**Last Updated:** 2025-07-18
+
+---
+
+## 🌟 Objective
+
+This guide documents the full, step-by-step process for filing a lawsuit on behalf of **Top Notch Lawn Care LLC** in **Colorado Small Claims** or **County Court**. It includes venue rules, forms, costs, service of process, and internal file tracking standards.
+
+---
+
+## 🧱 Filing Pre-Checklist
+
+Before filing, ensure:
+
+* [x] Internal `/lawsuits/client-name/` folder is created
+* [x] Memo of facts exists (`memo.md`)
+* [x] Total amount owed is under correct court limit
+* [x] All screenshots & proof are stored in `evidence/`
+* [x] You have legal standing as representative (see `01-representation-authority.md`)
+* [x] Confirm **client name, address, county**
+* [x] Optional: Demand letter sent and time elapsed
+
+---
+
+## 🏦 Step-by-Step: Small Claims (≤ \$7,500)
+
+### 🔹 Step 1: Choose County Court
+
+File in the county where:
+
+* The **job was performed**, or
+* The **client resides or does business**
+
+📌 Court Finder: [https://www.courts.state.co.us/Courts/County/](https://www.courts.state.co.us/Courts/County/)
+
+---
+
+### 🔹 Step 2: Prepare Required Forms
+
+Download and fill:
+
+* **JDF 250**: Notice, Claim, and Summons
+  [https://www.courts.state.co.us/Forms/PDF/JDF%20250.pdf](https://www.courts.state.co.us/Forms/PDF/JDF%20250.pdf)
+* Optional: Statement of Claim (JDF 256) if needed for clarity
+* Attach:
+
+  * Invoice/contract
+  * Screenshot proof
+  * Service photo(s)
+  * Total owed breakdown
+
+---
+
+### 🔹 Step 3: File the Case
+
+Options:
+
+* File in-person at county courthouse
+* Or call clerk and request e-filing / mail-in submission (depends on court)
+
+💵 Filing Fee:
+
+* \$0.01 – \$500 = \$31
+* \$500.01 – \$7,500 = \$55
+
+Paid by cash, check, or card at clerk’s window. Get a **receipt**.
+
+📁 Save receipt scan under:
+
+```
+/lawsuits/client-name/filing/
+```
+
+---
+
+### 🔹 Step 4: Serve the Defendant
+
+Methods (choose one):
+
+* [ ] 🧐 Personal service (sheriff or process server – \~\$35–\$60)
+* [ ] 📬 Certified mail (if allowed by clerk)
+
+🔐 Must serve AT LEAST 15 days before court date
+
+📁 Save:
+
+* Proof of service
+* Process server invoice
+* Certified mail receipt & tracking #
+
+Store under:
+
+```
+/lawsuits/client-name/service/
+```
+
+---
+
+### 🔹 Step 5: Prepare for Hearing
+
+* Rehearse your **statement of claim** (1–2 minutes)
+* Bring:
+
+  * Original contract or quote
+  * Photos (before/after)
+  * Messages/emails
+  * Invoice or transaction logs
+* Make **3 copies** of all docs (you, judge, defendant)
+
+Use this repo to print:
+
+```
+/lawsuits/client-name/
+🔼 memo.md
+🔼 contract.md
+🔼 payment-summary.md
+🔼 photos/
+🔼 screenshots/
+🔼 court-filing/
+```
+
+---
+
+## 📁 Optional: Filing in County Court (>\$7,500 ≤ \$15,000)
+
+✅ Still allowed **without attorney** if:
+
+* Top Notch is owned by ≤3 members (it is)
+* Saleem Schultz is filing as company officer
+* Case is not overly complex
+
+📌 Forms:
+
+* JDF 601: Complaint
+* JDF 622: Summons
+* Add exhibits & service docs
+
+💵 Filing Fee: \~\$95–\$115
+Court may schedule mediation or pretrial hearing
+
+🧑‍⚖️ More formal rules apply:
+
+* Discovery allowed
+* Must meet deadlines
+* Judge, not magistrate
+* **Attorney required if claim > \$15,000**
+
+---
+
+## 🗓️ Trial Timeline
+
+| Step            | Timeline                 |
+| --------------- | ------------------------ |
+| File case       | Day 0                    |
+| Serve defendant | Within 5–10 days         |
+| Response due    | Day 15 (varies)          |
+| Trial date      | 4–8 weeks after filing   |
+| Judgment issued | Same day or mailed later |
+
+---
+
+## 📂 Internal Folder Template
+
+```
+/lawsuits/john-doe/
+🔼 memo.md
+🔼 evidence/
+    🔼 screenshots/
+    🔼 photos/
+    🔼 invoice.pdf
+🔼 contract.md
+🔼 small-claims-filing.md
+🔼 service/
+🔼 court-filing/
+🔼 receipt.pdf
+🔼 status-log.md
+🔼 final-judgment.pdf
+```
+
+✅ Use `status-log.md` to document every step for historical record.
+
+---
+
+## ✅ Summary
+
+You may legally file, serve, and prosecute lawsuits for Top Notch in small claims and (≤ \$15k) county court, as long as:
+
+* The client is local
+* The claim is documented
+* Internal file structure is followed
+* Service is performed properly
+* You show up prepared and professional
+
+Attach this doc to any training for future managers.
